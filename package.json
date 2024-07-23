@@ -1,0 +1,29 @@
+{
+  "name": "try11ty",
+  "version": "0.1.0",
+  "description": "experimenting with 11ty for GH Pages ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldodson/try11ty.git"
+  },
+  "keywords": [
+    "eleventy",
+    "github",
+    "actions",
+    "github",
+    "pages"
+  ],
+  "author": "Joel Dodson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeldodson/try11ty/issues"
+  },
+  "homepage": "https://github.com/joeldodson/try11ty#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
