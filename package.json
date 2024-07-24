@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-ghpages": "NPX @11TY/eleventy"
+    "build-ghpages": "eleventy"
   },
   "repository": {
     "type": "git",
