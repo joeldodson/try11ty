@@ -4,7 +4,8 @@
   "description": "experimenting with 11ty for GH Pages ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-ghpages": "NPX @11TY/eleventy"
   },
   "repository": {
     "type": "git",
